@@ -12,5 +12,6 @@ public class T {
         System.out.println(42);
         System.out.println(43);
         System.out.println(42);
+        System.out.println(1);
     }
 }
